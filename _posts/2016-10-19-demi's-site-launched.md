@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Demi Launches the first blog site"
+title: "Demi Launches Her Blog"
 date: 2016-10-19
 ---
 <!-- Place this tag in your head or just before your close body tag. -->
