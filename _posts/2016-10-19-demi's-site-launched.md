@@ -5,6 +5,8 @@ date: 2016-10-19
 ---
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
+<!-- Place this tag in your head or just before your close body tag. -->
+<script src="https://apis.google.com/js/platform.js" async def></script>
 
 I havent powered it the way I should have, But thanks to the extra effective ready-made tutorials, atleast I am getting the hang of it. With more time, I will surely boom. Thanks to [Jekyll](http://jekyllrb.com)
 You know what? I do like to learn a lot but I take too much time to do it.. I wish I could be better at things. 
@@ -20,6 +22,8 @@ Okay, cutting all these craps let me tell you why did I really made this blog? I
 That's all.. I won't eat your head much and you know I don't like to share too-much. But I need a place to throw all of the mini-Demi insghts and talks that irritate me. Internet is the best place. You can read, like Harry used to see Dumbledor's memory, but it's definitely upto you. Adios! 
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/ntkme/github-buttons" data-icon="octicon-star" data-style="mega" data-count-href="/ntkme/github-buttons/stargazers" data-count-api="/repos/ntkme/github-buttons#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
+<a class="github-button" href="https://github.com/DarkDem/DarkDem.github.io" data-icon="octicon-star" data-style="mega" data-count-href="/DarkDem/DarkDem.github.io/stargazers" data-count-api="/repos/DarkDem/DarkDem.github.io#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star DarkDem/DarkDem.github.io on GitHub">Star</a>
 <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!-- Place this tag where you want the share button to render. -->
+<div class="g-plus" data-action="share"></div>
 
