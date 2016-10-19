@@ -12,13 +12,14 @@ Okay, cutting all these craps let me tell you why did I really made this blog? I
 
 <h1>Straight Forward - What will you get to no about?</h1>
 
-<li><ul> The Demi you know or don't know </ul>
-<ul> My work - My educational experience </ul>
-<ul> Product Reviews </ul>
-<ul> Book Reviews </ul></li>
+<ul><li>The Demi you know or don't know</li>
+<li> My work - My educational experience </li>
+<li> Product Reviews </li>
+<li> Book Reviews </li></ul>
 
 That's all.. I won't eat your head much and you know I don't like to share too-much. But I need a place to throw all of the mini-Demi insghts and talks that irritate me. Internet is the best place. You can read, like Harry used to see Dumbledor's memory, but it's definitely upto you. Adios! 
 
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/ntkme/github-buttons" data-icon="octicon-star" data-style="mega" data-count-href="/ntkme/github-buttons/stargazers" data-count-api="/repos/ntkme/github-buttons#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
 <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{% include disqus.html %}
