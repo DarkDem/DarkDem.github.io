@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background: url(imagem.jpg) no-repeat center center fixed; 
+    background: url(images/imagem.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
