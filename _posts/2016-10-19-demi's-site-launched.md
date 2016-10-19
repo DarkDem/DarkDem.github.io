@@ -15,6 +15,7 @@ Okay, cutting all these craps let me tell you why did I really made this blog? I
 <ul> My work - My educational experience </ul>
 <ul> Product Reviews </ul>
 <ul> Book Reviews </ul>
+</li>
 
 That's all.. I won't eat your head much and you know I don't like to share too-much. But I need a place to throw all of the mini-Demi insghts and talks that irritate me. Internet is the best place. You can read, like Harry used to see Dumbledor's memory, but it's definitely upto you. Adios!  
 
