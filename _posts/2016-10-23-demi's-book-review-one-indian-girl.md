@@ -24,7 +24,7 @@ her attractive. Ultimately her life gets tangled with twists and turns and *"Men
 
 ![one-indian-girl](../css/images/oneindiangirl.png)
 
-<img src="../css/images/oneindiangirl.png" alt="hi" class="inline"/>
+<img src="../css/images/oneindiangirl.png" alt="One-Indian-Girl" class="inline"/>
 
 
 Okay, so you know, she is a rigid woman, a woman with a lot of money, a job in the US and is filled with self-respect. But well, I found
