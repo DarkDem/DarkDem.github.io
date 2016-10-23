@@ -27,7 +27,7 @@ her attractive. Ultimately her life gets tangled with twists and turns and *"Men
 <img src="../css/images/oneindiangirl.png" alt="One-Indian-Girl" class="inline"/> <!-- no response yet -->
 
 <!-- so taking a chance to have a direct link -->
-![one indian girl](http://www.hindustantimes.com/rf/image_size_800x600/HT/p2/2016/10/02/Pictures/_d8f2002e-8845-11e6-92b8-e7f1e026a3c4.png)
+![one indian girl](http://i.ndtvimg.com/i/2016-09/one-indian-girl-book-cover-650_650x400_51475218352.jpg)
 
 
 
