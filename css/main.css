@@ -53,5 +53,6 @@ ul {
     line-height: 1.4em;
 }
 .center {
-  text-align: center;
+    margin: 0 auto;
+    display: block;
 }
