@@ -21,7 +21,7 @@ the huge money-mountain, grown at her back only made her stay upright. She was g
 her attractive. Ultimately her life gets tangled with twists and turns and *"Men"* and at present, she is trapped in the wildest corner of her mind.
 
 
-<img src="../css/images/oneindiangirl.png" alt="One Indian Girl" style="width:128px;height:128px;">
+![one-indian-girl](../css/image/oneindiangirl.png)
 
 Okay, so you know, she is a rigid woman, a woman with a lot of money, a job in the US and is filled with self-respect. But well, I found
 her character to be *too woman-ish* at times, which shows she did care about feelings. There is a logical fight, a fight between the
