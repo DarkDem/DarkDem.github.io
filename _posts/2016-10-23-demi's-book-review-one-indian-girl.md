@@ -20,14 +20,15 @@ hilarious comments. To her mother, she was a defective piece who doesn't want to
 the huge money-mountain, grown at her back only made her stay upright. She was geeky, infamous for her studious nature still her X and Y found
 her attractive. Ultimately her life gets tangled with twists and turns and *"Men"* and at present, she is trapped in the wildest corner of her mind.
 
-<img class="img-responsive" src="../css/images/oneindiangirl.png"/> <!-- no response yet -->
+<img class="img-responsive" src="../css/images/oneindiangirl.png"/> >>-- no response yet --<<
 
 ![one-indian-girl](../css/images/oneindiangirl.png) <!-- no response yet -->
 
 <img src="../css/images/oneindiangirl.png" alt="One-Indian-Girl" class="inline"/> <!-- no response yet -->
 
 <!-- so taking a chance to have a direct link -->
-![one indian girl](http://www.chetanbhagat.com/wp-content/uploads/Front.jpg)
+![one indian girl](http://www.hindustantimes.com/rf/image_size_800x600/HT/p2/2016/10/02/Pictures/_d8f2002e-8845-11e6-92b8-e7f1e026a3c4.png)
+
 
 
 Okay, so you know, she is a rigid woman, a woman with a lot of money, a job in the US and is filled with self-respect. But well, I found
