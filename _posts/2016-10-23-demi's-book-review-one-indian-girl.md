@@ -22,7 +22,7 @@ her attractive. Ultimately her life gets tangled with twists and turns and *"Men
 
 <img class="img-responsive" src="../css/images/oneindiangirl.png">
 
-![one-indian-girl](../css/images/oneindiangirl.png)
+![one-indian-girl](../css/images/oneindiangirl.png){:class="img-responsive"}
 
 <img src="../css/images/oneindiangirl.png" alt="One-Indian-Girl" class="inline"/>
 
