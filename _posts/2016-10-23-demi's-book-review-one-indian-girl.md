@@ -8,7 +8,7 @@ date: 2016-10-23
 <!-- Place this tag in your head or just before your close body tag. -->
 <script src="https://apis.google.com/js/platform.js" async def></script>
 
-<h1>Contains Spoilers: 
+<h1>Spoiler Alert!</h1> 
 
 The latest from the famous author Chetan Bhagat, the one I liked the most out of his too-filmy pieces is definitely the "One Indian Girl". Radhika 
 Mehta, one of the VPs of the Goldman Sachs earns more than enough to digest. Being from a traditional Punjabi family, her parents want her to get 
