@@ -24,6 +24,8 @@ her attractive. Ultimately her life gets tangled with twists and turns and *"Men
 
 ![one-indian-girl](../css/images/oneindiangirl.png)
 
+<img src="../css/images/oneindiangirl.png" alt="hi" class="inline"/>
+
 
 Okay, so you know, she is a rigid woman, a woman with a lot of money, a job in the US and is filled with self-respect. But well, I found
 her character to be *too woman-ish* at times, which shows she did care about feelings. There is a logical fight, a fight between the
