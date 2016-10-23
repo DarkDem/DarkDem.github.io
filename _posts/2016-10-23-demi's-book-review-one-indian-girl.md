@@ -20,7 +20,7 @@ hilarious comments. To her mother, she was a defective piece who doesn't want to
 the huge money-mountain, grown at her back only made her stay upright. She was geeky, infamous for her studious nature still her X and Y found
 her attractive. Ultimately her life gets tangled with twists and turns and *"Men"* and at present, she is trapped in the wildest corner of her mind.
 
-<img class="img-responsive" src="../css/images/oneindiangirl.png"/> [comment]: <> (no responses yet)
+<img class="img-responsive" src="../css/images/oneindiangirl.png"/> <!-- no responses yet -->
 
 ![one-indian-girl](../css/images/oneindiangirl.png) <!-- no response yet -->
 
