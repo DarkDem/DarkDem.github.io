@@ -1,5 +1,5 @@
 ---
-layout: default1
+layout: post
 title: "Demi Launches Her Blog"
 date: 2016-10-19
 ---
