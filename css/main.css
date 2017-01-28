@@ -112,7 +112,7 @@
 		.container.\31 25\25 {
 			width: 100%;
 			max-width: 100em;
-			min-width: 65em;
+			min-width: 100em;
 		}
 
 		.container.\37 5\25 {
@@ -2484,8 +2484,9 @@
 
 		.image.fit {
 			display: block;
-			margin: 0 0 2em 0;
-			width: 100%;
+			margin-left: 15%;
+			margin-top: 30%;
+			width: 50%;
 		}
 
 			.image.fit img {
