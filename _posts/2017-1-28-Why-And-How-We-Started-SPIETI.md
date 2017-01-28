@@ -25,14 +25,14 @@ a normal holiday and I was having a formal chat with one of my well-acquianted c
 could never stop once started about "The Theory of Everything". And well, say it the lazy effort or the legendary idea of securing the
 future with a B.Tech degree he too joined the herd of robots. And that said, we were no different and lost the least we used to have.
 
-May 19,2014 - same old chat session but nothing new to share with until we hit our favorite subjects of interest. Not going further, that 
-was the true birthdate of developing something great together for the first time. Our college was always famous for conduction east India's 
+May 19,2014 - same old chat session but nothing new to share, until we hit our favorite subjects of interest. Not going further, that 
+was the true birthdate of developing something great together for the first time. Our college was always famous for conducting the east India's 
 second largest tech festival which was already too overcrowded with adjectives for me to take any place in the core group. We knew we
-had nothing to boast of, still we were proud of zeal to search for the ultimatum. We decided, as we didn't have a science club, we would have
-one named "Boson". Why Boson? Silly to ask you - It was on the news. We approached our topper Amit, second topper Anannyo, my lab-partner 
+had nothing to boast of, still we were proud of the zeal to search for the ultimatum. We decided, as we didn't have a science club, we would have
+one named "Boson". Why Boson? Silly to ask you - It was on the news that time. We approached our topper Amit, second topper Anannyo, my lab-partner 
 next door Dipankar, Indraneel, Ayan, Chirantan and some more to form a group of Boson aspirants. At that time, I already succedded in 
-have a peaceful friendship with Amit and Anannyo. Being lost in the same journey, both of them sympathised with our idea and we fooled
-to join us. We were never the populars, but somehow we made a bond with few teachers from our dear Physics dept. 
+having a peaceful friendship with Amit and Anannyo. Being lost in the same journey, both of them sympathised with our idea and we fooled
+them to join us. We were never the populars, but somehow we made a bond with few teachers from our dear Physics dept and Mathematics dept. 
 
 **Soon we started a monthly theme-based wall magazine and with that, we started our basic science group called "Boson".**
 
@@ -48,13 +48,14 @@ Well well, being a woman, I recieved some grace from my teachers and as in India
 was made the joint secretary out of no where to help others hope and feel, India is progressing. Aishik was selected as the president,
 Pradipto - a guy from Mechanical Dept. was made the secretary, Amit secured a position of Vice President and Ayan stood as the Treasurer.
 And then our journey started on 27th of Occtober,'14. The rest about our chapter will be placed in perfect area, and this free space is
-no way the one. What I would tell you now is the realisation that comes after. 
+no way the one. What I would tell you now is the realisation that came after. 
 
-Being honest, I was lucky enough to be a founding member of a group which deserves much more that we currently get. Our head instituition 
+Being honest, I was lucky enough to be a founding member of a group which deserves much more than what we currently get. Our head instituition 
 being a non-profit institute we sincerely try to promote the idea of free education, development and growth. Like what happens in a 
-private institute, we didn't get much support, rather any moneytory support from our instituition. All what we got is the generous grant
-from SPIE head quarter as token of appreciation and to push our work further. And the amount? It was 29k the first year and around 35k the
-next year which although was not enough, we already learnt to make our clothes according to our annual supply. 
+private engineering institute in India, we didn't get much support, rather any moneytory support from our instituition. All what we got is the generous grant
+from SPIE head quarter as a token of appreciation and to push our work further and definitely a great moral support from our teachers.
+And the amount? It was 29k the first year and around 35k the
+next year which although was not enough, we already learnt to order our clothes according to our annual cotton supply. 
 
 With all that money we successfully conducted two outreach programes in village schools, conducted several lectures on relevant and contemporary
 natural science topics, made our own kit to distribute among the students (of course not to foget about the generous books donation 
@@ -69,7 +70,7 @@ being modest neither advertising our efforts, but yes, I wonder if this sacrific
 knock the consicence of its upcoming members. Being a critic, I consider it a business policy to attract students to join us, knowing that 
 out of 300 only 1 will turn up to volunteer. But, will it ever be sensical to them?
 
-I am only left with 3 months of my undergrad days and these thoughts haunt me when I see a disgrace on their face for trying to keep
+I am only left with 3 months of my undergrad days and these thoughts haunt me when I see a patch of disgrace on their face for trying to keep
 no registration fees, for trying to donate as much as possible, for trying to share and for trying to not run for huge sponsorship
 because I know, we know our capability, our devotion and our limitless memories that will keep us alive as one wherever we go. I am not
 being emotional here, I am just asking everyone to see the point and bear the spirit. Not to forget its a social community, it has the power
