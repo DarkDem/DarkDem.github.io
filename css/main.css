@@ -128,7 +128,7 @@
 		}
 
 		.container {
-			width: 65em;
+			width: 100em;
 		}
 
 	}
@@ -2467,7 +2467,7 @@
 		}
 
 			.image.left img, .image.right img {
-				width: 80%;
+				width: 100%;
 			}
 
 		.image.left {
@@ -2484,9 +2484,8 @@
 
 		.image.fit {
 			display: block;
-			margin-left: 15%;
-			margin-top: 30%;
-			width: 50%;
+			margin: 0 0 2em 0;
+			width: 100%;
 		}
 
 			.image.fit img {
