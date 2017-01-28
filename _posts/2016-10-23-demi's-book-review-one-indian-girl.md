@@ -1,5 +1,5 @@
 ---
-layout: default1
+layout: post
 title: "Book Review : One Indian Girl"
 date: 2016-10-23
 ---
