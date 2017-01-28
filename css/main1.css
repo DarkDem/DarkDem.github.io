@@ -112,7 +112,7 @@
 		.container.\31 25\25 {
 			width: 100%;
 			max-width: 100em;
-			min-width: 100em;
+			min-width: 80em;
 		}
 
 		.container.\37 5\25 {
@@ -3862,7 +3862,6 @@
 
 	#footer {
 		padding: 6em 2em 4em 2em;
-    
 	}
 
 		#footer > .inner {
