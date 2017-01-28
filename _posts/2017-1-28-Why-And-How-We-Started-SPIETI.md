@@ -44,6 +44,9 @@ Mr. Saikat Mazumder came to introduce us to an endeavour that he was about to be
 but new it was something worth trying for. We all again gathered together and finally, we being a group of silent people we started our
 very own SPIE Chapter where SPIE stands for International Society for Optics and Photonics. Now you know, it's not a mockery show, do you?
 
+<img class="img-responsive" src="https://darkdem.github.io/css/images/group.jpg"/>{: .center}
+
+
 Well well, being a woman, I recieved some grace from my teachers and as in India, we are always so proud to have a reservation quota, I
 was made the joint secretary out of no where to help others hope and feel, India is progressing. Aishik was selected as the president,
 Pradipto - a guy from Mechanical Dept. was made the secretary, Amit secured a position of Vice President and Ayan stood as the Treasurer.
