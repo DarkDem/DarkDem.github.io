@@ -133,7 +133,7 @@
 		}
 
 		.container {
-			width: 65em;
+			width: 86em;
 		}
 
 	}
@@ -3916,3 +3916,7 @@
 			}
 
 		}
+
+.mycenter {
+	text-align: center;
+}
