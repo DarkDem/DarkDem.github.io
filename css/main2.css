@@ -2869,6 +2869,8 @@
 	.wrapper {
 		padding: 6em 0 4em 0;
 		position: relative;
+		margin-left: -15em;
+		margin-right: -3.05em;
 	}
 
 		.wrapper .inner {
@@ -2876,7 +2878,7 @@
 			width: 80em;
 			position: relative;
 			z-index: 99;
-      margin-left: 30em;
+                       margin-left: 30em;
       
 		}
 
