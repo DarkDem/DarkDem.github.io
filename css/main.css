@@ -129,6 +129,7 @@
 
 		.container {
 			width: 100em;
+			margin-left: 13.9em;
 		}
 
 	}
@@ -2869,6 +2870,7 @@
 	.wrapper {
 		padding: 6em 0 4em 0;
 		position: relative;
+		margin-left: 10em;
 	}
 
 		.wrapper .inner {
