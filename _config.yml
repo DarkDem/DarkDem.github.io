@@ -1,4 +1,7 @@
 name: Debasmita Banerjee - The journey to the silver salvation
 markdown: kramdown
 
+gems:
+  - jekyll-sitemap
+
 
