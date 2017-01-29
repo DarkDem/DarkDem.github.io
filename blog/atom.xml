@@ -11,7 +11,7 @@ layout: feed
 	<id>http://DarkDem.github.io/blog</id>
 	<author>
 		<name>Debasmita Banerjee</name>
-		<email>DarkDem@gmail.com</email>
+		<email>write2debasmita@gmail.com</email>
 	</author>
 
 	{% for post in site.posts %}
@@ -19,7 +19,8 @@ layout: feed
 			<title>{{ post.title }}</title>
 			<link href="http://DarkDem.github.io{{ post.url }}"/>
 			<updated>{{ post.date | date_to_xmlschema }}</updated>
-			<id>http://DarkDem="html">{{ post.content | xml_escape }}</content>
+			<id>http://darkdem.github.io{{ post.id }}</id>
+			<content type="html">{{ post.content | xml_escape }}</content>
 		</entry>
 	{% endfor %}
 
