@@ -8,7 +8,7 @@ title: Blog - Viaggio
 	  {% for post in site.posts %}
 	    <li><span>{{ post.date | date_to_string }}</span> ||» <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 	    
-		    {{ post.content | strip_html | truncatewords:75 }}
+		    <br/><p>{{ post.content | strip_html | truncatewords:75 }}</p>
             </li>
 	  {% endfor %}
 	</ul>
