@@ -27,3 +27,6 @@ That's all.. I won't eat your head much and you know I don't like to share too-m
 <!-- Place this tag where you want the share button to render. -->
 <div class="g-plus" data-action="share"></div>
 
+<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/helphimshine?src=hash">#helphimshine</a> Help Amit present his research paper <a href="https://twitter.com/hashtag/retweet?src=hash">#retweet</a>! shout out for all STEM workers! <a href="https://twitter.com/hashtag/gofundme?src=hash">#gofundme</a> <a href="https://twitter.com/hashtag/crowdfund?src=hash">#crowdfund</a><a href="https://t.co/IDXFtKXFEy">https://t.co/IDXFtKXFEy</a> <a href="https://t.co/Lrwl9auuN0">pic.twitter.com/Lrwl9auuN0</a></p>&mdash; Debasmita Banerjee (@Demietra_Cal) <a href="https://twitter.com/Demietra_Cal/status/877824646002999297">June 22, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
