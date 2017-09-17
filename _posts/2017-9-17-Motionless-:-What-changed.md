@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Motionless - A loss and survival story"
-date: 2016-10-19
+date: 2016-09-17
 ---
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
