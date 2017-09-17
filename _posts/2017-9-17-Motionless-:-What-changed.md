@@ -8,6 +8,7 @@ date: 2017-09-17
 <!-- Place this tag in your head or just before your close body tag. -->
 <script src="https://apis.google.com/js/platform.js" async def></script>
 
+<br/>
 You know, the greatest fear lies in the sterile minds and its constant tendency to forsee the dark future with nothing but death and decay. 
 My four undergraduate years have given me a lot of things to cherish but a handful of memories that I want to tear apart in pieces and burn them
 with hatred and the idea of "moving on" from the odds to the even. I do not hold back grudges against a certain someone or something as this
